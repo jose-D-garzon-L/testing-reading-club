@@ -1,7 +1,7 @@
 # Learning Frontend Unit Testing
 
 Documentation of the testing reading club.
-We are going to discuss about the Udemy course `https://globant.udemy.com/course/react-testing-library`
+We are going to discuss about the Udemy course `https://udemy.com/course/react-testing-library`
 
 ## Technologies
 
