@@ -16,3 +16,10 @@ We are going to discuss about the Udemy course `https://udemy.com/course/react-t
 - Dom assertions.
 - Functional testing vs Unit Testing.
 - Test Driven Development.
+
+## Simple App Getting started
+
+- Debugging methods.
+  - screen.logTestingPlaygroundURL()
+  - Chrome extension Testing Playground
+- Functional and unit testing.
